@@ -3,7 +3,7 @@
 </p>
 <p align="center">
   <a href="https://t.me/gametuneoptimization"><img src="https://img.shields.io/badge/Купить_в_Telegram-@gametuneoptimization-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Купить в Telegram"></a>
-  <a href="../../releases/latest"><img src="https://img.shields.io/github/v/release/DGRFG/GameTune?style=for-the-badge&label=версия&color=5A6BFF" alt="Последняя версия"></a>
+  <a href="https://github.com/DGRFG/GameTune/releases/latest"><img src="https://img.shields.io/badge/Скачать-GameTune.exe-5A6BFF?style=for-the-badge&logo=windows&logoColor=white" alt="Скачать GameTune"></a>
 </p>
 GameTune
 Утилита для Windows 10/11, которая настраивает ПК под игры и показывает результат в цифрах. Каждое изменение можно откатить одной кнопкой.
